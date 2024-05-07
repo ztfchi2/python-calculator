@@ -7,37 +7,37 @@
 # left값과 right값을 더해서 출력합니다.
 def add(left_value,right_value):
     # TODO
-    return
+    raise NotImplementedError
 
 # subtract 뺄샘 연산
 def sub(left_value,right_value):
     # TODO
-    return
+    raise NotImplementedError
 
 # multiplied by 곱샘 연산
 def mul(left_value,right_value):
     # TODO
-    return
+    raise NotImplementedError
 
 # divided by 나눗샘 연산
 def div(left_value,right_value):
     # TODO
-    return
+    raise NotImplementedError
 
 # power 거듭제곱 연산
 def power(left_value,right_value):
     # TODO
-    return
+    raise NotImplementedError
 
 # modulate 나머지 연산
 def mod(left_value,right_value):
     # TODO
-    return
+    raise NotImplementedError
 
 # floor div 나머지 연산
 def floor_div(left_value,right_value):
     # TODO
-    return
+    raise NotImplementedError
 
 operator_map = {
     '/' : div,
